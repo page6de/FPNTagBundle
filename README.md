@@ -1,3 +1,8 @@
+# Bugfix for Symfony 4
+
+When upgrading my Symfony project to version 4 using this bundle it crahses in DependencyInjection/Configuration.php because of using a depricated function. Just forked the original project for fixing this. The original project seems not to be maintained anymore.
+ 
+
 FPNTagBundle
 ============
 
